@@ -1,2 +1,1 @@
-# Study
-git test
+git study
